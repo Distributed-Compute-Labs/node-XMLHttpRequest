@@ -1,5 +1,5 @@
 {
-  "name": "xmlhttprequest-ssl",
+  "name": "@kingsds/xmlhttprequest-ssl",
   "description": "XMLHttpRequest for Node",
   "version": "2.1.1",
   "author": {
@@ -17,9 +17,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/mjwwit/node-XMLHttpRequest.git"
+    "url": "git://github.com/Distributed-Compute-Labs/node-XMLHttpRequest.git"
   },
-  "bugs": "http://github.com/mjwwit/node-XMLHttpRequest/issues",
+  "bugs": "http://github.com/Distributed-Compute-Labs/node-XMLHttpRequest/issues",
   "engines": {
     "node": ">=0.4.0"
   },
